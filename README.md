@@ -1,5 +1,5 @@
 
-##Grade Calculator
+## Grade Calculator
 Este proyecto utiliza técnicas de inteligencia artificial con la librería **scikit-learn** para realizar predicciones basadas en datos históricos. Con el fin de estimar cuántas horas de estudio se necesitan para alcanzar una calificación específica en un examen.
 
 > [!WARNING]
